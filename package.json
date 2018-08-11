@@ -1,0 +1,18 @@
+{
+  "name": "aws-stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serverless-http": "^1.6.0",
+    "serverless-offline": "^3.25.7",
+    "stripe": "^6.7.0"
+  }
+}
